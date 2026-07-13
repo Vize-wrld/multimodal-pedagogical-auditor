@@ -1,2 +1,1 @@
-# multimodal-pedagogical-auditor
-
+A multimodal AI framework for pedagogical auditing
