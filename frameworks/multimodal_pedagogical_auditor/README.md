@@ -1,5 +1,11 @@
 # 🧠 Multimodal Pedagogical Auditor
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Stable_Release-blue.svg" alt="Status" />
+  <img src="https://img.shields.io/badge/Engine-Gemini_3.1_Flash_Live-orange.svg" alt="Engine" />
+  <img src="https://img.shields.io/badge/Compliance-Strict_JSON_&_Markdown-brightgreen.svg" alt="Compliance" />
+</p>
+
 A high-performance, system-instructions framework designed for real-time and retrospective auditing of automated AI instructional streams. Optimized explicitly for the **Gemini 3.1 Flash Live** engine to evaluate teaching efficiency, monitor conceptual pacing, and enforce rigid data serialization constraints.
 
 ---

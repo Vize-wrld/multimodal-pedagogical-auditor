@@ -1,5 +1,11 @@
 # 🛠️ The Student Audit & Automation Ecosystem
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active_Development-blue.svg" alt="Status" />
+  <img src="https://img.shields.io/badge/Tech_Stack-Python_3.x_%7C_Gemini_Live_API_%7C_Prompt_Eng.-orange.svg" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Framework-AI_Constraint_Management-brightgreen.svg" alt="Framework" />
+</p>
+
 A completely custom, modular automation ecosystem engineered to reverse-engineer curriculum design, map academic progress dynamically across a multi-term layout, and force rigorous engineering mastery through isolated testing loops.
 
 ---
